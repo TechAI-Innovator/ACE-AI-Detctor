@@ -1,2 +1,2 @@
-# ACE AI-Detctor
- A web app to detect AI generated contents in any format (.doc, .xlsx, .pdf, url_link)
+# Ace AI Detector
+ A Web App developed in Flask to Detect AI written texts in any format (pdf, excel, doc or Url links)
